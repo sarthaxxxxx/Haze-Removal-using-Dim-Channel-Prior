@@ -2,4 +2,4 @@
 Paper Implementation
 
 
-The above .m files are attached as per the sections of the paper.
+The above .m files are attached as per the different sections of the paper.
